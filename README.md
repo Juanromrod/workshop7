@@ -12,7 +12,7 @@
 - En el repositorio se encuentran los respectivos códigos de cada arduino el Maestro y el Esclavo, los cuales son los archivos .ino y el script de python utilizado para el intento de conexión con ThingSpeak .py
 
 # Referencias
-Las siguientes referencias se utilizaron para entender el funcionamiento de la conexión I2C y en general para los requerimientos de conexiones, drivers y código necesario para el desarrollo del workshop, a su vez se hizo uso de la herramienta ChatGPT para facilitar e desarrollo de código de los programas.
+Las siguientes referencias se utilizaron para entender el funcionamiento de la conexión I2C y en general para los requerimientos de conexiones, drivers y código necesario para el desarrollo del workshop, a su vez se hizo uso de la herramienta ChatGPT para facilitar el desarrollo de código de los programas.
 - https://www.youtube.com/watch?v=az-X_1QSuOY
 - https://docs.arduino.cc/learn/communication/wire
 - https://bc-robotics.com/tutorials/using-a-tmp36-temperature-sensor-with-arduino/
